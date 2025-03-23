@@ -1,0 +1,71 @@
+Anomaly ID,Consumer ID,Timestamp,Anomaly Type,Description,Action Taken,Resolution Date
+ANM10001,10001,05-06-2024 08:30,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,06-06-2024 10:45
+ANM10002,10001,12-06-2024 15:20,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,12-06-2024 16:45
+ANM10003,10002,07-06-2024 11:45,Billing Error,Discrepancy found in the billing amount.,Billing corrected and consumer notified.,08-06-2024 09:30
+ANM10004,10003,10-06-2024 14:00,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,11-06-2024 13:15
+ANM10005,10004,02-06-2024 16:10,Connectivity Issue,Issues detected with meter connectivity.,Meter reconnected and tested.,02-06-2024 17:30
+ANM10006,10005,14-06-2024 09:55,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,15-06-2024 11:20
+ANM10007,10006,09-06-2024 13:40,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,09-06-2024 15:00
+ANM10008,10007,08-06-2024 10:15,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,08-06-2024 12:30
+ANM10009,10008,04-06-2024 17:20,Billing Error,Discrepancy found in the billing amount.,Billing corrected and consumer notified.,05-06-2024 09:45
+ANM10010,10009,06-06-2024 14:30,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,06-06-2024 16:10
+ANM10011,10010,08-06-2024 09:00,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,08-06-2024 10:45
+ANM10012,10011,12-06-2024 10:15,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,13-06-2024 12:30
+ANM10013,10012,03-06-2024 14:40,Connectivity Issue,Issues detected with meter connectivity.,Meter reconnected and tested.,03-06-2024 16:20
+ANM10014,10013,09-06-2024 11:00,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,09-06-2024 12:40
+ANM10015,10014,05-06-2024 13:30,Billing Error,Discrepancy found in the billing amount.,Billing corrected and consumer notified.,06-06-2024 10:20
+ANM10016,10015,07-06-2024 10:45,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,07-06-2024 11:55
+ANM10017,10016,10-06-2024 15:20,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,11-06-2024 17:10
+ANM10018,10017,11-06-2024 08:00,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,11-06-2024 09:35
+ANM10019,10018,14-06-2024 12:30,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,14-06-2024 13:45
+ANM10020,10019,05-06-2024 14:20,Connectivity Issue,Issues detected with meter connectivity.,Meter reconnected and tested.,05-06-2024 16:00
+ANM10021,10020,08-06-2024 11:10,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,08-06-2024 12:50
+ANM10022,10021,10-06-2024 16:00,Billing Error,Discrepancy found in the billing amount.,Billing corrected and consumer notified.,11-06-2024 09:15
+ANM10023,10022,12-06-2024 09:40,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,13-06-2024 11:25
+ANM10024,10023,07-06-2024 13:50,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,07-06-2024 15:30
+ANM10025,10024,03-06-2024 10:30,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,03-06-2024 12:15
+ANM10026,10025,05-06-2024 16:45,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,06-06-2024 18:20
+ANM10027,10026,09-06-2024 10:25,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,09-06-2024 12:00
+ANM10028,10027,14-06-2024 11:20,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,14-06-2024 12:35
+ANM10029,10028,12-06-2024 09:50,Connectivity Issue,Issues detected with meter connectivity.,Meter reconnected and tested.,12-06-2024 11:30
+ANM10030,10029,10-06-2024 12:30,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,10-06-2024 14:10
+ANM10031,10030,04-06-2024 08:45,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,04-06-2024 10:30
+ANM10032,10031,08-06-2024 13:20,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,09-06-2024 15:00
+ANM10033,10032,12-06-2024 09:50,Connectivity Issue,Issues detected with meter connectivity.,Meter reconnected and tested.,12-06-2024 11:30
+ANM10034,10033,07-06-2024 11:00,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,07-06-2024 12:40
+ANM10035,10034,05-06-2024 14:30,Billing Error,Discrepancy found in the billing amount.,Billing corrected and consumer notified.,06-06-2024 09:20
+ANM10036,10035,09-06-2024 10:55,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,09-06-2024 12:15
+ANM10037,10036,14-06-2024 14:20,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,15-06-2024 16:00
+ANM10038,10037,08-06-2024 08:00,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,08-06-2024 09:35
+ANM10039,10038,10-06-2024 12:30,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,10-06-2024 14:45
+ANM10040,10039,06-06-2024 14:20,Connectivity Issue,Issues detected with meter connectivity.,Meter reconnected and tested.,06-06-2024 16:10
+ANM10041,10040,08-06-2024 11:10,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,08-06-2024 12:50
+ANM10042,10041,12-06-2024 09:40,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,13-06-2024 11:25
+ANM10043,10042,07-06-2024 13:50,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,07-06-2024 15:30
+ANM10044,10043,03-06-2024 10:30,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,03-06-2024 12:15
+ANM10045,10044,05-06-2024 16:45,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,06-06-2024 18:20
+ANM10046,10045,09-06-2024 10:25,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,09-06-2024 12:00
+ANM10047,10046,14-06-2024 11:20,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,14-06-2024 12:35
+ANM10048,10047,06-06-2024 14:15,Billing Error,Discrepancy found in the billing amount.,Billing corrected and consumer notified.,07-06-2024 09:30
+ANM10049,10048,10-06-2024 12:30,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,10-06-2024 14:10
+ANM10050,10049,04-06-2024 08:45,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,04-06-2024 10:30
+ANM10051,10050,08-06-2024 13:20,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,09-06-2024 15:00
+ANM10052,10051,12-06-2024 09:50,Connectivity Issue,Issues detected with meter connectivity.,Meter reconnected and tested.,12-06-2024 11:30
+ANM10053,10052,07-06-2024 11:00,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,07-06-2024 12:40
+ANM10054,10053,05-06-2024 14:30,Billing Error,Discrepancy found in the billing amount.,Billing corrected and consumer notified.,06-06-2024 09:20
+ANM10055,10054,09-06-2024 10:55,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,09-06-2024 12:15
+ANM10056,10055,14-06-2024 14:20,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,15-06-2024 16:00
+ANM10057,10056,08-06-2024 08:00,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,08-06-2024 09:35
+ANM10058,10057,10-06-2024 12:30,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,10-06-2024 14:45
+ANM10059,10058,06-06-2024 14:20,Connectivity Issue,Issues detected with meter connectivity.,Meter reconnected and tested.,06-06-2024 16:10
+ANM10060,10059,08-06-2024 11:10,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,08-06-2024 12:50
+ANM10061,10060,12-06-2024 09:40,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,13-06-2024 11:25
+ANM10062,10061,07-06-2024 13:50,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,07-06-2024 15:30
+ANM10063,10062,03-06-2024 10:30,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,03-06-2024 12:15
+ANM10064,10063,05-06-2024 16:45,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,06-06-2024 18:20
+ANM10065,10064,09-06-2024 10:25,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,09-06-2024 12:00
+ANM10066,10065,14-06-2024 11:20,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,14-06-2024 12:35
+ANM10067,10066,06-06-2024 14:15,Billing Error,Discrepancy found in the billing amount.,Billing corrected and consumer notified.,07-06-2024 09:30
+ANM10068,10067,10-06-2024 12:30,Power Outage,Unexpected power outage occurred.,Investigated and resolved the outage.,10-06-2024 14:10
+ANM10069,10068,04-06-2024 08:45,Meter Tampering,Potential tampering detected with the meter.,Meter inspected and secured.,04-06-2024 10:30
+ANM10070,10069,08-06-2024 13:20,Voltage Fluctuation,The voltage levels fluctuated beyond acceptable limits.,Voltage stabilizer installed.,09-06-2024 15:00
